@@ -1,2 +1,2 @@
-eqvip
+eqvidp
 devOps
